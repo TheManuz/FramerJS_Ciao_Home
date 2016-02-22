@@ -1,0 +1,17 @@
+window.contactList = {
+    "contacts": [
+        { "name": "Alice Testa", "image": "images/avatar0.jpg" },
+        { "name": "Marco Riva", "image": "images/avatar1.jpg" },
+        { "name": "Michela Fontana", "image": "images/avatar2.jpg" },
+        { "name": "Edoardo Marino", "image": "images/avatar3.jpg" },
+        { "name": "Giovanni Gatti", "image": "images/avatar4.jpg" },
+        { "name": "Nicole Benedetti", "image": "images/avatar5.jpg" },
+        { "name": "Alessio Valentini", "image": "images/avatar6.jpg" },
+        { "name": "Marco Rinaldi", "image": "images/avatar7.jpg" },
+        { "name": "Alberto Martini", "image": "images/avatar8.jpg" },
+        { "name": "Luca Barone", "image": "images/avatar9.jpg" },
+        { "name": "Veronica Bianchi", "image": "images/avatar10.jpg" },
+        { "name": "Carlo De Visu", "image": "images/avatar11.jpg" },
+        { "name": "Ann Wong", "image": "images/avatar12.jpg" }
+    ]
+}
